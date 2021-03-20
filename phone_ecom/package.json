@@ -1,0 +1,20 @@
+{
+  "name": "phone_ecom",
+  "version": "1.0.0",
+  "description": "e-commerce",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sass ./sass/style.scss style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yahyaElhaddyouy/pfs-phone-ecom.git"
+  },
+  "author": "gingo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yahyaElhaddyouy/pfs-phone-ecom/issues"
+  },
+  "homepage": "https://github.com/yahyaElhaddyouy/pfs-phone-ecom#readme"
+}

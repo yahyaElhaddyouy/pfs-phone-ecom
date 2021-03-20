@@ -1,0 +1,20 @@
+/* special price template */
+
+#special-price{
+
+    #filters{
+        text-align: right;
+    }
+   
+    #filters button.btn{
+        outline: none;
+        text-decoration: none !important;
+        user-select: none;
+    }
+    
+    .grid .grid-item{
+        margin-top: 1.2rem;
+        margin-right: 1rem;
+    }
+    
+}
